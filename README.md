@@ -1,1 +1,1 @@
-Making a project on HTML CSS
+Created a mini project with HTML and CSS
